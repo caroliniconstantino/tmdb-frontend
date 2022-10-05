@@ -8,7 +8,7 @@ Projeto desenvolvido por meio de uma API de filmes gratuita [themoviedb](https:/
 - styled-componentes
 
 ## Link Surge
-- nosy-crowd.surge.sh
+[Click aqui](tmdb-frontend.vercel.app)
 
 ## Imagens
 <img src="src\img\ezgif.com-gif-maker.gif">
