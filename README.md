@@ -8,7 +8,7 @@ Projeto desenvolvido por meio de uma API de filmes gratuita [themoviedb](https:/
 - styled-componentes
 
 ## Link Surge
-[Click aqui](tmdb-frontend.vercel.app)
+[Click aqui](https://tmdb-frontend-challenge-amaro.vercel.app)
 
 ## Imagens
 <img src="src\img\ezgif.com-gif-maker.gif">
